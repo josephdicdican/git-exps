@@ -7,3 +7,5 @@ master branch updated
 
 new feature
 
+new beta feature
+
